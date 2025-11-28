@@ -23,7 +23,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           {/* Logo */}
-          <Link to="/" className="text-gray-900 font-serif text-2xl font-bold">
+          <Link to="/home" className="text-gray-900 font-serif text-2xl font-bold">
             Altamash Ali
           </Link>
 
