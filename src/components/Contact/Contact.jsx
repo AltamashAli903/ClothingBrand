@@ -61,17 +61,6 @@ const Contact = () => {
             required
           />
         </div>
-
-        {/* Submit Button */}
-        <div className="mt-6">
-          <button
-            type="submit"
-            className="w-full py-3 rounded-xl bg-gradient-to-r bg-black text-white font-semibold shadow-md hover:shadow-lg transition-all"
-          >
-            Submit
-          </button>
-        </div>
-
       </form>
     </div>
   );
