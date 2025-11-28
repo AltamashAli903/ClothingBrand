@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ClothingBrand/static/css/main.9f8d9643.css",
-    "main.js": "/ClothingBrand/static/js/main.a95e2004.js",
+    "main.js": "/ClothingBrand/static/js/main.cf4edb7a.js",
     "static/js/453.f51fbfa0.chunk.js": "/ClothingBrand/static/js/453.f51fbfa0.chunk.js",
     "static/media/Shirt.jpg": "/ClothingBrand/static/media/Shirt.9e45a21a1f3cc25e8b28.jpg",
     "static/media/Pants.jpg": "/ClothingBrand/static/media/Pants.edd79cf27c04510094af.jpg",
@@ -9,11 +9,11 @@
     "static/media/Altamash.jpg": "/ClothingBrand/static/media/Altamash.91f1fe8556d0f2a46815.jpg",
     "index.html": "/ClothingBrand/index.html",
     "main.9f8d9643.css.map": "/ClothingBrand/static/css/main.9f8d9643.css.map",
-    "main.a95e2004.js.map": "/ClothingBrand/static/js/main.a95e2004.js.map",
+    "main.cf4edb7a.js.map": "/ClothingBrand/static/js/main.cf4edb7a.js.map",
     "453.f51fbfa0.chunk.js.map": "/ClothingBrand/static/js/453.f51fbfa0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f8d9643.css",
-    "static/js/main.a95e2004.js"
+    "static/js/main.cf4edb7a.js"
   ]
 }
